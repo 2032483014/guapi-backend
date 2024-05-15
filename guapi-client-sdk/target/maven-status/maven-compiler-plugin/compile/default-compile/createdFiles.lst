@@ -1,0 +1,5 @@
+com\gu\guapiclientsdk\model\User.class
+com\gu\guapiclientsdk\client\GuApiClient.class
+com\gu\guapiclientsdk\GuApiClientConfig.class
+com\gu\guapiclientsdk\utils\SignUtils.class
+META-INF\spring-configuration-metadata.json

@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "guapi.client",
+      "type": "com.gu.guapiclientsdk.GuApiClientConfig",
+      "sourceType": "com.gu.guapiclientsdk.GuApiClientConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "guapi.client.access-key",
+      "type": "java.lang.String",
+      "sourceType": "com.gu.guapiclientsdk.GuApiClientConfig"
+    },
+    {
+      "name": "guapi.client.secret-key",
+      "type": "java.lang.String",
+      "sourceType": "com.gu.guapiclientsdk.GuApiClientConfig"
+    }
+  ],
+  "hints": []
+}

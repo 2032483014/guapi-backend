@@ -1,0 +1,8 @@
+com\gu\guapicommon\model\entity\UserInterfaceInfo.class
+com\gu\guapicommon\model\vo\UserVO.class
+com\gu\guapicommon\service\InnerUserService.class
+com\gu\guapicommon\model\entity\User.class
+com\gu\guapicommon\service\InnerInterfaceInfoService.class
+com\gu\guapicommon\service\InnerUserInterfaceInfoService.class
+com\gu\guapicommon\model\entity\InterfaceInfo.class
+com\gu\guapicommon\model\enums\InterfaceInfoStatusEnum.class
